@@ -1,6 +1,3 @@
-# 2Pictures
-ARP
-一、
 这一次做的是通过ARP欺骗的方式进行MITM的实验。此次使用的是sslsplit工具。
 基本步骤如下：
 1.在git上下载源码：
